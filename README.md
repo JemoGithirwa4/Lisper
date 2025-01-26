@@ -22,9 +22,9 @@ Lisper is a simple web application that fetches and displays random secrets usin
    - The `index.ejs` file dynamically renders:
      - A secret in a styled card.
      - The username below the secret.
-     - ![HomePage Screenshot](public/images/demo1.PNG)
+     ![HomePage Screenshot](public/images/demo1.PNG)
      - To view the secret hover over the card with the image.
-     - ![Secret display Screenshot](public/images/demo2.PNG)
+     ![Secret display Screenshot](public/images/demo2.PNG)
 
 3. **Static Files**:
    - CSS and other assets are served from the `public` folder.
@@ -44,7 +44,7 @@ Lisper is a simple web application that fetches and displays random secrets usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/lisper.git
+   git clone https://github.com/JemoGithirwa4/Lisper.git
    cd lisper
 2. Install dependencies:
    ```bash
@@ -72,6 +72,6 @@ Lisper is a simple web application that fetches and displays random secrets usin
 }
 
 ## Dependencies
-**Express:** Web framework for server-side functionality.
-**Axios:** HTTP client for API calls.
-**EJS:** Templating engine for dynamic page rendering.
+- **Express:** Web framework for server-side functionality.
+- **Axios:** HTTP client for API calls.
+- **EJS:** Templating engine for dynamic page rendering.
